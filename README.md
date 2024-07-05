@@ -1,5 +1,5 @@
 # Python-Finite-Element-Analysis
-This project was made for my computational physics lab in Franklin and Marshall College where I used numerical methods to perform structural analysis on beam bending.
+This project was made for my computational physics lab in Franklin and Marshall College where I used numerical methods to perform structural analysis on beam bending. You'll find my presentation PPTx file detailing some results from the project as well. Presented on April 24th 2024, in PHY226 taught by Professor Ryan Trainor at Franklin and Marshall college.
 
 ## Files in the most recent build:
 Build 3 contains multiple files, each with a certain function:
